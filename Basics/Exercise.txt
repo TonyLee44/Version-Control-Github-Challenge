@@ -1,0 +1,5 @@
+1. The terminal is a way to navigate the computer without GUI.
+
+2. Git is a version control system that lets you manage your source code history and GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+3. The main reason to use GitHub is for developers to collaboratively work on code.
